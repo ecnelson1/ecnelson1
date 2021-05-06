@@ -1,16 +1,16 @@
-### Hi there 👋
+Welcome to my Repo!
 
-<!--
-**ecnelson1/ecnelson1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Eion (He/Him) and I am a software developer, a pool player, and a lover of all things live music related!
 
-Here are some ideas to get you started:
+My core skill sets are in software development and operations management. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have always been a person to try and give a hand up, not out, and I’m looking to write web and mobile apps focused on helping the average person find resources to help them improve a job skill, or apply for programs that can help get educational funding and match them with a training program that will help improve their quality of life.
+
+The thing that makes me such a valuable member of a team is my adaptability, 
+even before my time in the Marines I was a person who has always had to "do more with less,"
+and bringing that capability and can do attitude to a team or project with the right resources is not only my goal, but my driving motivation.
+
+Please, reach out and let me know if there is a project you are passionate about that could use a driven, goal oriented developer!
+
+
+
